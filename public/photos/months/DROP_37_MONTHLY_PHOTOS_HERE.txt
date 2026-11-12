@@ -1,0 +1,2 @@
+Drop month-01.jpg through month-37.jpg in this folder!
+

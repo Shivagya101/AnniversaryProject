@@ -1,0 +1,31 @@
+HOW TO ADD YOUR PHOTOS & 30-SECOND VIDEO
+========================================
+
+1. 37 MONTHLY COLLAGE PHOTOS (Nov 2023 to Nov 2026):
+   Place your 37 photos inside:
+   public/photos/months/
+   Named:
+   - month-01.jpg  (November 2023)
+   - month-02.jpg  (December 2023)
+   ...
+   - month-37.jpg  (November 2026)
+
+   (Or edit `src/data/anniversaryData.js` to point to any custom filenames or URLs!)
+
+2. REVEAL QUESTION PHOTOS:
+   Place photos for the "Why do you think I love you?" reveal cards inside:
+   public/photos/questions/
+   Named:
+   - reveal-1.jpg
+   - reveal-2.jpg
+
+3. YOUR 30-SECOND FINALE VIDEO:
+   - Option A (Local file): Place your 30-sec video at `public/videos/anniversary-video.mp4`
+   - Option B (External API): Open `vite.config.js` (line ~128) or `src/data/anniversaryData.js` (`FINALE_CONFIG.videoApiEndpoint`) and put your custom API URL!
+
+4. WHERE HER ANSWERS ARE SAVED:
+   Whenever she selects an MCQ option (like your anniversary outfit) or clicks "Yes, Forever",
+   her choices are automatically saved into:
+   - responses.txt  (human-readable summary file in the project root)
+   - responses.json (structured JSON file in the project root)
+

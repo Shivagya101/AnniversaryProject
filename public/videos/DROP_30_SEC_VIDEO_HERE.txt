@@ -1,0 +1,2 @@
+Drop anniversary-video.mp4 (your 30-second video) in this folder, or configure your API URL in src/data/anniversaryData.js!
+

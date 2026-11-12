@@ -1,0 +1,2 @@
+Drop fav-pic-1.jpg, fav-pic-2.jpg, fav-pic-3.jpg in this folder for the Fun Fact "This is my fav pic of us!" popups!
+

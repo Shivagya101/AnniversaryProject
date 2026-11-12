@@ -1,0 +1,216 @@
+{
+  "project": "3-Year Anniversary Scrapbook (14 Nov 2023 - 14 Nov 2026)",
+  "updatedAt": "13 Nov 2026, 5:15:08 am",
+  "answers": {
+    "q-anniversary-outfit": {
+      "questionId": "q-anniversary-outfit",
+      "question": "Date me kya pehnu?",
+      "selectedOption": "constricted shirt with white pants",
+      "timestamp": "13 Nov 2026, 5:14:34 am"
+    },
+    "q-date-vibe": {
+      "questionId": "q-date-vibe",
+      "question": "Fav kind of dates with me?",
+      "selectedOption": "Annapurna me bhaiyya ke saath gupchup",
+      "timestamp": "13 Nov 2026, 5:14:57 am"
+    }
+  },
+  "foreverAnswer": {
+    "question": "Together Forever?",
+    "answer": "Yes, Forever ♥",
+    "timestamp": "13 Nov 2026, 5:15:08 am"
+  },
+  "history": [
+    {
+      "type": "forever",
+      "question": "Do you want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 12:00:32 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 12:19:37 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 3: Deep Burgundy / Wine Formal Shirt (dressed up for dinner night)",
+      "timestamp": "13 Nov 2026, 12:29:36 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 2: Crisp White Linen Shirt with beige chinos (soft romantic look)",
+      "timestamp": "13 Nov 2026, 12:30:05 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "What vibe do you want most on our 3-Year Anniversary date?",
+      "selectedOption": "Option 3: Cute café hopping + recreating our favorite first-year photo",
+      "timestamp": "13 Nov 2026, 12:30:14 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 12:33:09 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 1: Classic Black Shirt with rolled-up sleeves & tailored trousers",
+      "timestamp": "13 Nov 2026, 12:34:40 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "What vibe do you want most on our 3-Year Anniversary date?",
+      "selectedOption": "Option 2: Cozy scenic drive, sunset view, and our favorite comfort food",
+      "timestamp": "13 Nov 2026, 12:34:57 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 2: Crisp White Linen Shirt with beige chinos (soft romantic look)",
+      "timestamp": "13 Nov 2026, 12:47:59 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 4: That favorite outfit of mine you always compliment me in",
+      "timestamp": "13 Nov 2026, 12:48:00 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 12:48:18 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 3: Deep Burgundy / Wine Formal Shirt (dressed up for dinner night)",
+      "timestamp": "13 Nov 2026, 12:53:49 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 12:54:12 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "What vibe do you want most on our 3-Year Anniversary date?",
+      "selectedOption": "Option 2: Cozy scenic drive, sunset view, and our favorite comfort food",
+      "timestamp": "13 Nov 2026, 1:35:52 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 1:36:43 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 1:45:22 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 2:07:02 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 2: Crisp White Linen Shirt with beige chinos (soft romantic look)",
+      "timestamp": "13 Nov 2026, 2:07:29 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 1: Classic Black Shirt with rolled-up sleeves & tailored trousers",
+      "timestamp": "13 Nov 2026, 2:10:20 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "What vibe do you want most on our 3-Year Anniversary date?",
+      "selectedOption": "Option 3: Cute café hopping + recreating our favorite first-year photo",
+      "timestamp": "13 Nov 2026, 2:10:29 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Which cloth do you want me to wear on our anniversary date?",
+      "selectedOption": "Option 3: Deep Burgundy / Wine Formal Shirt (dressed up for dinner night)",
+      "timestamp": "13 Nov 2026, 2:12:56 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 2:39:02 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 3:06:53 am"
+    },
+    {
+      "type": "forever",
+      "question": "Do you see us together — and want to stay with me forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 3:12:28 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "Fav kind of dates with me?",
+      "selectedOption": "Option 2- NIT Gate and Beyond",
+      "timestamp": "13 Nov 2026, 4:55:24 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "Fav kind of dates with me?",
+      "selectedOption": "NIT Gate and Beyond",
+      "timestamp": "13 Nov 2026, 4:55:27 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-anniversary-outfit",
+      "question": "Date me kya pehnu?",
+      "selectedOption": "constricted shirt with white pants",
+      "timestamp": "13 Nov 2026, 5:14:34 am"
+    },
+    {
+      "type": "mcq",
+      "questionId": "q-date-vibe",
+      "question": "Fav kind of dates with me?",
+      "selectedOption": "Annapurna me bhaiyya ke saath gupchup",
+      "timestamp": "13 Nov 2026, 5:14:57 am"
+    },
+    {
+      "type": "forever",
+      "question": "Together Forever?",
+      "answer": "Yes, Forever ♥",
+      "timestamp": "13 Nov 2026, 5:15:08 am"
+    }
+  ]
+}

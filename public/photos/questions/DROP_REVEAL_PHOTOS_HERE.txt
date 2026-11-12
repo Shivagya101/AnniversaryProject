@@ -1,0 +1,2 @@
+Drop reveal-1.jpg, reveal-2.jpg, etc. in this folder!
+
